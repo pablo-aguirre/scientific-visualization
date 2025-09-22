@@ -1,0 +1,324 @@
+Region,Location,yr_law,yr_fb50,gap_years,product
+Africa,Benin,2007,2022.0,15.0,cig
+Africa,Burkina Faso,2007,2012.0,5.0,cig
+Africa,Burundi,2018,2018.0,0.0,cig
+Africa,Cabo Verde,2007,2022.0,15.0,cig
+Africa,Cameroon,2007,2007.0,0.0,cig
+Africa,Chad,2007,2010.0,3.0,cig
+Africa,Cote d'Ivoire,2007,2022.0,15.0,cig
+Africa,Democratic Republic of the Congo,2007,2018.0,11.0,cig
+Africa,Eswatini,2014,2014.0,0.0,cig
+Africa,Ethiopia,2014,2020.0,6.0,cig
+Africa,Gabon,2007,2014.0,7.0,cig
+Africa,Gambia,2010,2020.0,10.0,cig
+Africa,Ghana,2007,2012.0,5.0,cig
+Africa,Madagascar,2007,2010.0,3.0,cig
+Africa,Mauritania,2018,2018.0,0.0,cig
+Africa,Mauritius,2007,2008.0,1.0,cig
+Africa,Namibia,2010,2014.0,4.0,cig
+Africa,Niger,2007,2012.0,5.0,cig
+Africa,Nigeria,2007,2016.0,9.0,cig
+Africa,Senegal,2007,2016.0,9.0,cig
+Africa,Seychelles,2010,2010.0,0.0,cig
+Africa,Togo,2010,2010.0,0.0,cig
+Africa,Uganda,2007,2016.0,9.0,cig
+Americas,Antigua and Barbuda,2018,2018.0,0.0,cig
+Americas,Argentina,2007,2012.0,5.0,cig
+Americas,Barbados,2018,2018.0,0.0,cig
+Americas,Bolivia (Plurinational State of),2007,2007.0,0.0,cig
+Americas,Brazil,2007,2007.0,0.0,cig
+Americas,Canada,2007,2007.0,0.0,cig
+Americas,Chile,2007,2007.0,0.0,cig
+Americas,Costa Rica,2007,2012.0,5.0,cig
+Americas,Ecuador,2007,2012.0,5.0,cig
+Americas,El Salvador,2007,2012.0,5.0,cig
+Americas,Guyana,2007,2018.0,11.0,cig
+Americas,Honduras,2007,2010.0,3.0,cig
+Americas,Jamaica,2007,2014.0,7.0,cig
+Americas,Mexico,2007,2008.0,1.0,cig
+Americas,Nicaragua,2007,2010.0,3.0,cig
+Americas,Panama,2007,2007.0,0.0,cig
+Americas,Peru,2007,2010.0,3.0,cig
+Americas,Saint Lucia,2018,2018.0,0.0,cig
+Americas,Suriname,2014,2014.0,0.0,cig
+Americas,Trinidad and Tobago,2007,2014.0,7.0,cig
+Americas,Uruguay,2007,2007.0,0.0,cig
+Americas,Venezuela (Bolivarian Republic of),2007,2007.0,0.0,cig
+Eastern Mediterranean,Afghanistan,2016,2016.0,0.0,cig
+Eastern Mediterranean,Bahrain,2010,2012.0,2.0,cig
+Eastern Mediterranean,Djibouti,2007,2007.0,0.0,cig
+Eastern Mediterranean,Egypt,2007,2007.0,0.0,cig
+Eastern Mediterranean,Iran (Islamic Republic of),2007,2007.0,0.0,cig
+Eastern Mediterranean,Kuwait,2007,2012.0,5.0,cig
+Eastern Mediterranean,Oman,2007,2012.0,5.0,cig
+Eastern Mediterranean,Pakistan,2007,2018.0,11.0,cig
+Eastern Mediterranean,Qatar,2007,2012.0,5.0,cig
+Eastern Mediterranean,Saudi Arabia,2007,2012.0,5.0,cig
+Eastern Mediterranean,Sudan,2007,2022.0,15.0,cig
+Eastern Mediterranean,Tunisia,2007,2022.0,15.0,cig
+Eastern Mediterranean,United Arab Emirates,2007,2012.0,5.0,cig
+Eastern Mediterranean,Yemen,2007,2012.0,5.0,cig
+Europe,Albania,2007,2008.0,1.0,cig
+Europe,Armenia,2007,2014.0,7.0,cig
+Europe,Austria,2007,2016.0,9.0,cig
+Europe,Belarus,2007,2014.0,7.0,cig
+Europe,Belgium,2007,2016.0,9.0,cig
+Europe,Bulgaria,2007,2016.0,9.0,cig
+Europe,Croatia,2007,2018.0,11.0,cig
+Europe,Cyprus,2007,2018.0,11.0,cig
+Europe,Czechia,2007,2016.0,9.0,cig
+Europe,Denmark,2007,2016.0,9.0,cig
+Europe,Estonia,2007,2016.0,9.0,cig
+Europe,Finland,2007,2016.0,9.0,cig
+Europe,France,2007,2016.0,9.0,cig
+Europe,Georgia,2007,2018.0,11.0,cig
+Europe,Germany,2007,2016.0,9.0,cig
+Europe,Greece,2007,2016.0,9.0,cig
+Europe,Hungary,2007,2016.0,9.0,cig
+Europe,Ireland,2007,2016.0,9.0,cig
+Europe,Israel,2007,2020.0,13.0,cig
+Europe,Italy,2007,2016.0,9.0,cig
+Europe,Kazakhstan,2007,2014.0,7.0,cig
+Europe,Kyrgyzstan,2007,2014.0,7.0,cig
+Europe,Latvia,2007,2016.0,9.0,cig
+Europe,Lithuania,2007,2016.0,9.0,cig
+Europe,Luxembourg,2007,2018.0,11.0,cig
+Europe,Malta,2007,2016.0,9.0,cig
+Europe,Montenegro,2007,2020.0,13.0,cig
+Europe,Netherlands (Kingdom of the),2007,2016.0,9.0,cig
+Europe,Poland,2007,2016.0,9.0,cig
+Europe,Portugal,2007,2016.0,9.0,cig
+Europe,Republic of Moldova,2007,2016.0,9.0,cig
+Europe,Romania,2007,2016.0,9.0,cig
+Europe,Russian Federation,2007,2014.0,7.0,cig
+Europe,Slovakia,2007,2016.0,9.0,cig
+Europe,Slovenia,2007,2018.0,11.0,cig
+Europe,Spain,2007,2018.0,11.0,cig
+Europe,Sweden,2007,2016.0,9.0,cig
+Europe,Tajikistan,2010,2018.0,8.0,cig
+Europe,Turkmenistan,2007,2014.0,7.0,cig
+Europe,Türkiye,2007,2012.0,5.0,cig
+Europe,Ukraine,2007,2010.0,3.0,cig
+Europe,United Kingdom of Great Britain and Northern Ireland,2007,2016.0,9.0,cig
+South-East Asia,Bangladesh,2007,2014.0,7.0,cig
+South-East Asia,India,2007,2016.0,9.0,cig
+South-East Asia,Maldives,2007,2020.0,13.0,cig
+South-East Asia,Myanmar,2007,2016.0,9.0,cig
+South-East Asia,Nepal,2010,2012.0,2.0,cig
+South-East Asia,Sri Lanka,2007,2012.0,5.0,cig
+South-East Asia,Thailand,2007,2007.0,0.0,cig
+South-East Asia,Timor-Leste,2007,2016.0,9.0,cig
+Western Pacific,Australia,2007,2007.0,0.0,cig
+Western Pacific,Brunei Darussalam,2007,2007.0,0.0,cig
+Western Pacific,Cambodia,2010,2016.0,6.0,cig
+Western Pacific,Cook Islands,2007,2008.0,1.0,cig
+Western Pacific,Fiji,2007,2010.0,3.0,cig
+Western Pacific,Japan,2007,2020.0,13.0,cig
+Western Pacific,Kiribati,2014,2016.0,2.0,cig
+Western Pacific,Lao People's Democratic Republic,2007,2016.0,9.0,cig
+Western Pacific,Malaysia,2007,2008.0,1.0,cig
+Western Pacific,Mongolia,2007,2012.0,5.0,cig
+Western Pacific,New Zealand,2007,2007.0,0.0,cig
+Western Pacific,Niue,2018,2018.0,0.0,cig
+Western Pacific,Papua New Guinea,2007,2018.0,11.0,cig
+Western Pacific,Philippines,2007,2014.0,7.0,cig
+Western Pacific,Republic of Korea,2007,2016.0,9.0,cig
+Western Pacific,Samoa,2008,2014.0,6.0,cig
+Western Pacific,Singapore,2007,2007.0,0.0,cig
+Western Pacific,Solomon Islands,2010,2014.0,4.0,cig
+Western Pacific,Tonga,2007,2007.0,0.0,cig
+Western Pacific,Vanuatu,2007,2014.0,7.0,cig
+Western Pacific,Viet Nam,2007,2012.0,5.0,cig
+Africa,Benin,2007,2022.0,15.0,osm
+Africa,Burkina Faso,2007,2012.0,5.0,osm
+Africa,Burundi,2018,2018.0,0.0,osm
+Africa,Cabo Verde,2022,2022.0,0.0,osm
+Africa,Cameroon,2007,2007.0,0.0,osm
+Africa,Chad,2007,2010.0,3.0,osm
+Africa,Cote d'Ivoire,2007,2022.0,15.0,osm
+Africa,Democratic Republic of the Congo,2018,2018.0,0.0,osm
+Africa,Eswatini,2014,2014.0,0.0,osm
+Africa,Ethiopia,2014,2020.0,6.0,osm
+Africa,Gambia,2010,2020.0,10.0,osm
+Africa,Ghana,2010,2012.0,2.0,osm
+Africa,Mauritania,2018,2018.0,0.0,osm
+Africa,Mauritius,2007,2022.0,15.0,osm
+Africa,Namibia,2010,2014.0,4.0,osm
+Africa,Niger,2007,2012.0,5.0,osm
+Africa,Nigeria,2007,2016.0,9.0,osm
+Africa,Senegal,2007,2016.0,9.0,osm
+Africa,Seychelles,2010,2010.0,0.0,osm
+Africa,Togo,2010,2010.0,0.0,osm
+Africa,Uganda,2016,2016.0,0.0,osm
+Americas,Antigua and Barbuda,2018,2018.0,0.0,osm
+Americas,Argentina,2007,2012.0,5.0,osm
+Americas,Barbados,2018,2018.0,0.0,osm
+Americas,Bolivia (Plurinational State of),2007,2007.0,0.0,osm
+Americas,Brazil,2007,2007.0,0.0,osm
+Americas,Canada,2010,2010.0,0.0,osm
+Americas,Chile,2007,2007.0,0.0,osm
+Americas,Costa Rica,2007,2012.0,5.0,osm
+Americas,Ecuador,2007,2012.0,5.0,osm
+Americas,El Salvador,2007,2012.0,5.0,osm
+Americas,Guyana,2018,2018.0,0.0,osm
+Americas,Honduras,2007,2010.0,3.0,osm
+Americas,Jamaica,2007,2014.0,7.0,osm
+Americas,Mexico,2008,2010.0,2.0,osm
+Americas,Nicaragua,2007,2010.0,3.0,osm
+Americas,Panama,2007,2007.0,0.0,osm
+Americas,Peru,2007,2010.0,3.0,osm
+Americas,Saint Lucia,2018,2018.0,0.0,osm
+Americas,Suriname,2014,2014.0,0.0,osm
+Americas,Trinidad and Tobago,2010,2014.0,4.0,osm
+Americas,Uruguay,2007,2007.0,0.0,osm
+Eastern Mediterranean,Afghanistan,2016,2016.0,0.0,osm
+Eastern Mediterranean,Bahrain,2010,2012.0,2.0,osm
+Eastern Mediterranean,Djibouti,2007,2007.0,0.0,osm
+Eastern Mediterranean,Egypt,2007,2007.0,0.0,osm
+Eastern Mediterranean,Iran (Islamic Republic of),2007,2007.0,0.0,osm
+Eastern Mediterranean,Kuwait,2007,2012.0,5.0,osm
+Eastern Mediterranean,Oman,2007,2012.0,5.0,osm
+Eastern Mediterranean,Qatar,2007,2012.0,5.0,osm
+Eastern Mediterranean,Saudi Arabia,2012,2012.0,0.0,osm
+Eastern Mediterranean,Sudan,2007,2022.0,15.0,osm
+Eastern Mediterranean,Tunisia,2007,2022.0,15.0,osm
+Eastern Mediterranean,United Arab Emirates,2010,2012.0,2.0,osm
+Eastern Mediterranean,Yemen,2007,2012.0,5.0,osm
+Europe,Albania,2007,2008.0,1.0,osm
+Europe,Armenia,2007,2014.0,7.0,osm
+Europe,Austria,2007,2016.0,9.0,osm
+Europe,Belarus,2014,2014.0,0.0,osm
+Europe,Belgium,2007,2016.0,9.0,osm
+Europe,Bulgaria,2007,2016.0,9.0,osm
+Europe,Croatia,2007,2018.0,11.0,osm
+Europe,Cyprus,2007,2018.0,11.0,osm
+Europe,Czechia,2007,2016.0,9.0,osm
+Europe,Denmark,2007,2016.0,9.0,osm
+Europe,Estonia,2007,2016.0,9.0,osm
+Europe,Finland,2007,2016.0,9.0,osm
+Europe,France,2007,2016.0,9.0,osm
+Europe,Georgia,2007,2018.0,11.0,osm
+Europe,Germany,2007,2016.0,9.0,osm
+Europe,Greece,2007,2016.0,9.0,osm
+Europe,Hungary,2007,2016.0,9.0,osm
+Europe,Ireland,2007,2016.0,9.0,osm
+Europe,Israel,2007,2020.0,13.0,osm
+Europe,Italy,2007,2016.0,9.0,osm
+Europe,Kazakhstan,2007,2014.0,7.0,osm
+Europe,Kyrgyzstan,2007,2014.0,7.0,osm
+Europe,Latvia,2007,2016.0,9.0,osm
+Europe,Lithuania,2007,2016.0,9.0,osm
+Europe,Luxembourg,2007,2018.0,11.0,osm
+Europe,Malta,2007,2016.0,9.0,osm
+Europe,Montenegro,2007,2020.0,13.0,osm
+Europe,Netherlands (Kingdom of the),2007,2016.0,9.0,osm
+Europe,Poland,2007,2016.0,9.0,osm
+Europe,Portugal,2007,2016.0,9.0,osm
+Europe,Republic of Moldova,2007,2016.0,9.0,osm
+Europe,Romania,2007,2016.0,9.0,osm
+Europe,Russian Federation,2008,2014.0,6.0,osm
+Europe,Slovakia,2007,2016.0,9.0,osm
+Europe,Slovenia,2007,2018.0,11.0,osm
+Europe,Spain,2007,2018.0,11.0,osm
+Europe,Sweden,2007,2016.0,9.0,osm
+Europe,Tajikistan,2010,2018.0,8.0,osm
+Europe,Türkiye,2007,2012.0,5.0,osm
+Europe,Ukraine,2007,2010.0,3.0,osm
+Europe,United Kingdom of Great Britain and Northern Ireland,2007,2016.0,9.0,osm
+South-East Asia,Bangladesh,2007,2014.0,7.0,osm
+South-East Asia,India,2007,2016.0,9.0,osm
+South-East Asia,Maldives,2007,2020.0,13.0,osm
+South-East Asia,Myanmar,2007,2016.0,9.0,osm
+South-East Asia,Nepal,2010,2012.0,2.0,osm
+South-East Asia,Sri Lanka,2016,2016.0,0.0,osm
+South-East Asia,Thailand,2007,2007.0,0.0,osm
+South-East Asia,Timor-Leste,2007,2016.0,9.0,osm
+Western Pacific,Australia,2007,2012.0,5.0,osm
+Western Pacific,Brunei Darussalam,2007,2007.0,0.0,osm
+Western Pacific,Cambodia,2016,2016.0,0.0,osm
+Western Pacific,Cook Islands,2007,2008.0,1.0,osm
+Western Pacific,Fiji,2007,2010.0,3.0,osm
+Western Pacific,Japan,2007,2020.0,13.0,osm
+Western Pacific,Kiribati,2014,2016.0,2.0,osm
+Western Pacific,New Zealand,2007,2018.0,11.0,osm
+Western Pacific,Niue,2018,2018.0,0.0,osm
+Western Pacific,Papua New Guinea,2007,2018.0,11.0,osm
+Western Pacific,Philippines,2007,2014.0,7.0,osm
+Western Pacific,Republic of Korea,2014,2016.0,2.0,osm
+Western Pacific,Singapore,2007,2007.0,0.0,osm
+Western Pacific,Solomon Islands,2010,2014.0,4.0,osm
+Western Pacific,Tonga,2007,2007.0,0.0,osm
+Western Pacific,Vanuatu,2007,2014.0,7.0,osm
+Western Pacific,Viet Nam,2012,2012.0,0.0,osm
+Africa,Benin,2007,2022.0,15.0,sml
+Africa,Burkina Faso,2007,2012.0,5.0,sml
+Africa,Burundi,2018,2018.0,0.0,sml
+Africa,Cabo Verde,2022,2022.0,0.0,sml
+Africa,Cameroon,2007,2007.0,0.0,sml
+Africa,Chad,2007,2010.0,3.0,sml
+Africa,Cote d'Ivoire,2007,2022.0,15.0,sml
+Africa,Democratic Republic of the Congo,2018,2018.0,0.0,sml
+Africa,Eswatini,2014,2014.0,0.0,sml
+Africa,Ethiopia,2014,2020.0,6.0,sml
+Africa,Ghana,2010,2012.0,2.0,sml
+Africa,Madagascar,2007,2010.0,3.0,sml
+Africa,Mauritania,2018,2018.0,0.0,sml
+Africa,Namibia,2010,2014.0,4.0,sml
+Africa,Nigeria,2016,2016.0,0.0,sml
+Africa,Senegal,2007,2016.0,9.0,sml
+Africa,Seychelles,2010,2010.0,0.0,sml
+Africa,Togo,2010,2010.0,0.0,sml
+Americas,Antigua and Barbuda,2018,2018.0,0.0,sml
+Americas,Argentina,2012,2012.0,0.0,sml
+Americas,Barbados,2018,2018.0,0.0,sml
+Americas,Bolivia (Plurinational State of),2020,2020.0,0.0,sml
+Americas,Canada,2010,2010.0,0.0,sml
+Americas,Chile,2007,2007.0,0.0,sml
+Americas,Costa Rica,2012,2012.0,0.0,sml
+Americas,Ecuador,2007,2012.0,5.0,sml
+Americas,El Salvador,2007,2016.0,9.0,sml
+Americas,Guyana,2018,2018.0,0.0,sml
+Americas,Honduras,2007,2010.0,3.0,sml
+Americas,Jamaica,2014,2014.0,0.0,sml
+Americas,Nicaragua,2007,2010.0,3.0,sml
+Americas,Panama,2007,2007.0,0.0,sml
+Americas,Peru,2007,2010.0,3.0,sml
+Americas,Saint Lucia,2018,2018.0,0.0,sml
+Americas,Suriname,2014,2014.0,0.0,sml
+Americas,Trinidad and Tobago,2010,2014.0,4.0,sml
+Americas,Uruguay,2007,2007.0,0.0,sml
+Eastern Mediterranean,Afghanistan,2016,2016.0,0.0,sml
+Eastern Mediterranean,Djibouti,2007,2007.0,0.0,sml
+Eastern Mediterranean,Egypt,2007,2007.0,0.0,sml
+Eastern Mediterranean,Iran (Islamic Republic of),2007,2007.0,0.0,sml
+Eastern Mediterranean,Kuwait,2012,2012.0,0.0,sml
+Eastern Mediterranean,Qatar,2007,2012.0,5.0,sml
+Eastern Mediterranean,Sudan,2007,2022.0,15.0,sml
+Eastern Mediterranean,Tunisia,2007,2022.0,15.0,sml
+Eastern Mediterranean,United Arab Emirates,2010,2012.0,2.0,sml
+Eastern Mediterranean,Yemen,2007,2012.0,5.0,sml
+Europe,Albania,2007,2008.0,1.0,sml
+Europe,Israel,2007,2020.0,13.0,sml
+Europe,Kyrgyzstan,2007,2022.0,15.0,sml
+Europe,Tajikistan,2010,2018.0,8.0,sml
+Europe,Türkiye,2007,2012.0,5.0,sml
+Europe,Ukraine,2007,2010.0,3.0,sml
+South-East Asia,Bangladesh,2014,2014.0,0.0,sml
+South-East Asia,India,2007,2016.0,9.0,sml
+South-East Asia,Maldives,2007,2020.0,13.0,sml
+South-East Asia,Myanmar,2016,2016.0,0.0,sml
+South-East Asia,Nepal,2010,2012.0,2.0,sml
+South-East Asia,Timor-Leste,2016,2016.0,0.0,sml
+Western Pacific,Brunei Darussalam,2007,2007.0,0.0,sml
+Western Pacific,Cambodia,2016,2016.0,0.0,sml
+Western Pacific,Cook Islands,2007,2008.0,1.0,sml
+Western Pacific,Japan,2007,2020.0,13.0,sml
+Western Pacific,Kiribati,2014,2016.0,2.0,sml
+Western Pacific,New Zealand,2007,2018.0,11.0,sml
+Western Pacific,Papua New Guinea,2007,2018.0,11.0,sml
+Western Pacific,Philippines,2007,2014.0,7.0,sml
+Western Pacific,Republic of Korea,2014,2016.0,2.0,sml
+Western Pacific,Singapore,2007,2007.0,0.0,sml
+Western Pacific,Solomon Islands,2010,2014.0,4.0,sml
+Western Pacific,Tonga,2007,2007.0,0.0,sml
+Western Pacific,Viet Nam,2012,2012.0,0.0,sml
