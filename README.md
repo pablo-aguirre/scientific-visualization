@@ -1,0 +1,1 @@
+This repository contains the work done for the course of scientific visualization for the 2024-25 A.Y. performed by Marco Colangelo (67045A) and Pablo Aguirre (67074A). The work focused on the MPOWER measures for the tobacco consuption all around the world in the last years. 
